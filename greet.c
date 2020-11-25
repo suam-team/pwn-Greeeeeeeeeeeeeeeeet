@@ -15,6 +15,7 @@ void greet(){
 void main(){
         printf("Who are you?\n");
         greet();
+	fflush(stdout);
         printf("Bye :D");
 }
 
