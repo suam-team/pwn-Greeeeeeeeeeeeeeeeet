@@ -1,0 +1,8 @@
+{
+    "name": "Greeeeeeeeeeeeeeeeet!",
+    "description": "The basic stack buffer overflow lab",
+    "repository": "https://github.com/suam-team/stack-buf-overflow-101-lab",
+    "logo": "https://suam.wtf/favicon-32x32.png",
+    "keywords": ["hacking", "lab", "pwn"],
+    "stack": "container"
+}
