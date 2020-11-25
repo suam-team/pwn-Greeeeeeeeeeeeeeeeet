@@ -7,6 +7,7 @@
 void greet(){
         char name[100]="";
         printf("Name locate at: %p\n", name);
+	fflush(stdout);
         scanf("%s", name);
         printf("Hello, %s\n", name);
 }
