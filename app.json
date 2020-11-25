@@ -1,7 +1,7 @@
 {
-    "name": "Greeeeeeeeeeeeeeeeet!",
-    "description": "The basic stack buffer overflow lab",
-    "repository": "https://github.com/suam-team/stack-buf-overflow-101-lab",
+    "name": "PWN Greeeeeeeeeeeeeeeeet",
+    "description": "เป็นโจทย์ง่าย ๆ ไว้หัดทำการโจมตีแบบ Stack-based Buffer Overflow โดยโจทย์นี้ทำการปิด Protection ทั้งหมดเพื่อให้ง่ายต่อการโจมตี",
+    "repository": "https://github.com/suam-team/pwn-Greeeeeeeeeeeeeeeeet",
     "logo": "https://suam.wtf/favicon-32x32.png",
     "keywords": ["hacking", "lab", "pwn"],
     "stack": "container"

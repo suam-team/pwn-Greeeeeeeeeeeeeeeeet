@@ -1,7 +1,7 @@
 {
-    "name": "Greeeeeeeeeeeeeeeeet!",
+    "name": "PWN Greeeeeeeeeeeeeeeeet",
     "category": "PWN",
     "author": "jusmistic",
-    "flag": "237265834d5d5a8a85db6667378bbce0,f940d2439d16c0a1073677aeb093b2a8,a5dc574f3e46a52866178c79605fe925,5d407d4c125bf2e668c04138dccf0e51ed1f45f09a5feb58cb9caee0386d493ccb42088f5b4077a56ea95b477ce73f3f09821f860ded87cf17f70e94,c59d74b787aba8b557a9ea969c519cd1",
-    "detail": "The basic stack buffer overflow lab"
+    "flag": "138adbf51248d0f599a089a999c866fd,779b1f4d34b7f230928e74a623a573fc,b761effc9a0aa9819882e77271eb0768,ea01aa406df71ee62799c179f182fb8875453d68fb25252f49f7dfc46e1802eeb2836bdb557dca59c44a73bdec3e41714ef3c337a20a469e2bfff7b3,312e401a67e5cf4fa3916564255bfae5",
+    "detail": "เป็นโจทย์ง่าย ๆ ไว้หัดทำการโจมตีแบบ Stack-based Buffer Overflow โดยโจทย์นี้ทำการปิด Protection ทั้งหมดเพื่อให้ง่ายต่อการโจมตี"
 }

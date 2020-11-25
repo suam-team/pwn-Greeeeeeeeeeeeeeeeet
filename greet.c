@@ -3,7 +3,6 @@
 
 // gcc greet.c -o greet -fno-stack-protector -z execstack -no-pie
 
-
 void greet(){
         char name[100]="";
         printf("Name locate at: %p\n", name);
