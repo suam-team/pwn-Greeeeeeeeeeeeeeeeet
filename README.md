@@ -1,7 +1,7 @@
 # Greeeeeeeeeeeeeeeeet! 
 
-
-
+เป็นโจทย์ง่าย ๆ ไว้หัดทำการโจมตีแบบ Stack-based Buffer Overflow โดยโจทย์นี้ทำการปิด Protection ทั้งหมดเพื่อให้ง่ายต่อการโจมตี
+ปล. โจทย์นี้ใช้ในการบรรบาย OWASP รายเดือนครั้งสุดท้ายของปี 2020 ในหัวข้อ From 0x00 to 0x41: An Introduction to Memory Corruption
 ### pwnlib.tubes.remote.remote to sock_websocket.WebSock
 
 Connect to lab app with sock_websocket.WebSock instead.
