@@ -6,7 +6,7 @@
 void greet(){
         char name[100]="";
         printf("Name locate at: %p\n", name);
-	fflush(stdout);
+        fflush(stdout);
         scanf("%s", name);
         printf("Hello, %s\n", name);
 }
@@ -14,7 +14,7 @@ void greet(){
 void main(){
         printf("Who are you?\n");
         greet();
-	fflush(stdout);
+        fflush(stdout);
         printf("Bye :D");
 }
 
